@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="../AuthPortal.Application/AuthPortal.Application.csproj" />
+		<ProjectReference Include="../AuthPortal.Infrastructure/AuthPortal.Infrastructure.csproj" />
+	</ItemGroup>
+
+</Project>

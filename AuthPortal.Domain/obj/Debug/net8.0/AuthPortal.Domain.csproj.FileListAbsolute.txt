@@ -1,0 +1,11 @@
+D:\G\AuthPortal\AuthPortal.Domain\bin\Debug\net8.0\AuthPortal.Domain.deps.json
+D:\G\AuthPortal\AuthPortal.Domain\bin\Debug\net8.0\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Domain\bin\Debug\net8.0\AuthPortal.Domain.pdb
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.AssemblyInfoInputs.cache
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.AssemblyInfo.cs
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.csproj.CoreCompileInputs.cache
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\refint\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.pdb
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\ref\AuthPortal.Domain.dll

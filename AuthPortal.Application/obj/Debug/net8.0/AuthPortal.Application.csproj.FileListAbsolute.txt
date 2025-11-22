@@ -1,0 +1,15 @@
+D:\G\AuthPortal\AuthPortal.Application\bin\Debug\net8.0\AuthPortal.Application.deps.json
+D:\G\AuthPortal\AuthPortal.Application\bin\Debug\net8.0\AuthPortal.Application.dll
+D:\G\AuthPortal\AuthPortal.Application\bin\Debug\net8.0\AuthPortal.Application.pdb
+D:\G\AuthPortal\AuthPortal.Application\bin\Debug\net8.0\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Application\bin\Debug\net8.0\AuthPortal.Domain.pdb
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.csproj.AssemblyReference.cache
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.AssemblyInfoInputs.cache
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.AssemblyInfo.cs
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.csproj.CoreCompileInputs.cache
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPort.DC2EC607.Up2Date
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.dll
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\refint\AuthPortal.Application.dll
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.pdb
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\ref\AuthPortal.Application.dll
