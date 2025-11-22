@@ -13,3 +13,6 @@ D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Infrastruc
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.csproj.AssemblyReference.cache
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.sourcelink.json
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.genruntimeconfig.cache
+D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Domain.pdb
+D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPort.B19E08A8.Up2Date

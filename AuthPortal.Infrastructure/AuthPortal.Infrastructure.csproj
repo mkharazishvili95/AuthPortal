@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AuthPortal.Domain\AuthPortal.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

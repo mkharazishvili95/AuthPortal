@@ -174,7 +174,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\G\\AuthPortal\\AuthPortal.Domain\\AuthPortal.Domain.csproj": {
+                "projectPath": "D:\\G\\AuthPortal\\AuthPortal.Domain\\AuthPortal.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

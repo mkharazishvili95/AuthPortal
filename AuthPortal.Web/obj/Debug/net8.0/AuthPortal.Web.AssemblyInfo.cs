@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthPortal.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a03ab39443523591b551102ce6a35a70e1f7de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3fb91e5f76595276fe790035ba8e59d29a3d7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthPortal.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthPortal.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
