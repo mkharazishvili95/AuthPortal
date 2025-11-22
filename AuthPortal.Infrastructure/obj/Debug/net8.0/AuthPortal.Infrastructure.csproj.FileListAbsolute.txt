@@ -16,3 +16,5 @@ D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastruc
 D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Domain.dll
 D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Domain.pdb
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPort.B19E08A8.Up2Date
+D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Application.dll
+D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Application.pdb

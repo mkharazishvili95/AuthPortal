@@ -3,12 +3,72 @@
   "WorkspaceRootPath": "D:\\G\\AuthPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|d:\\g\\authportal\\authportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|solutionrelative:authportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\features\\user\\queries\\get\\getuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\features\\user\\queries\\get\\getuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|d:\\g\\authportal\\authportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|solutionrelative:authportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\features\\user\\queries\\get\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\features\\user\\queries\\get\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\features\\user\\queries\\get\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\features\\user\\queries\\get\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\commons\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\commons\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\commons\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\commons\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6C1C37-3B35-4A2D-9E76-804C6DE18B81}|AuthPortal.Domain\\AuthPortal.Domain.csproj|d:\\g\\authportal\\authportal.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6C1C37-3B35-4A2D-9E76-804C6DE18B81}|AuthPortal.Domain\\AuthPortal.Domain.csproj|solutionrelative:authportal.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|d:\\g\\authportal\\authportal.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C9A674-FD80-43AD-A04A-B745F950F104}|AuthPortal.Application\\AuthPortal.Application.csproj|solutionrelative:authportal.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\authportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\authportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6C1C37-3B35-4A2D-9E76-804C6DE18B81}|AuthPortal.Domain\\AuthPortal.Domain.csproj|d:\\g\\authportal\\authportal.domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|d:\\g\\authportal\\authportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|solutionrelative:authportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|d:\\g\\authportal\\authportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5896BC9E-D354-429F-BCC6-0B4033022601}|AuthPortal\\AuthPortal.Api.csproj|solutionrelative:authportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|d:\\g\\authportal\\authportal.infrastructure\\authportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCFCDB00-CF5D-4FFD-BCD5-B1FB318A23EB}|AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj|solutionrelative:authportal.infrastructure\\authportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56A78B0D-F5AF-40AE-97CD-9F476C201365}|AuthPortal.Web\\AuthPortal.Web.csproj|d:\\g\\authportal\\authportal.web\\authportal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +118,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserType.cs",
-              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Enums\\UserType.cs",
-              "RelativeDocumentMoniker": "AuthPortal.Domain\\Enums\\UserType.cs",
-              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Enums\\UserType.cs",
-              "RelativeToolTip": "AuthPortal.Domain\\Enums\\UserType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthPortal\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthPortal\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T15:03:01.79Z",
+              "WhenOpened": "2025-11-22T16:25:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Commons\\Models\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Commons\\Models\\BaseResponse.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Commons\\Models\\BaseResponse.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Commons\\Models\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:20:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserQuery.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserQuery.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:19:42.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserHandler.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserHandler.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserHandler.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserHandler.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:19:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserResponse.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserResponse.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Features\\User\\Queries\\Get\\GetUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:19:30.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "AuthPortal.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:08:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "AuthPortal.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:05:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:05:24.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\Program.cs",
+              "RelativeDocumentMoniker": "AuthPortal\\Program.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal\\Program.cs",
+              "RelativeToolTip": "AuthPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:53:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Commons\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Commons\\Models\\PaginationModel.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Commons\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Commons\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:20:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:03:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "AuthPortal.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:03:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthPortal.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:01:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "AuthPortal.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:01:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Gender.cs",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Enums\\Gender.cs",
               "RelativeDocumentMoniker": "AuthPortal.Domain\\Enums\\Gender.cs",
@@ -92,20 +313,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "AuthPortal.Domain\\Entities\\User.cs",
               "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Entities\\User.cs",
               "RelativeToolTip": "AuthPortal.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T14:58:17.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\appsettings.json",
               "RelativeDocumentMoniker": "AuthPortal\\appsettings.json",
@@ -118,32 +339,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\Program.cs",
-              "RelativeDocumentMoniker": "AuthPortal\\Program.cs",
-              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal\\Program.cs",
-              "RelativeToolTip": "AuthPortal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:53:37.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "AuthPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T14:53:10.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "AuthPortal.Web.csproj",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Web\\AuthPortal.Web.csproj",
               "RelativeDocumentMoniker": "AuthPortal.Web\\AuthPortal.Web.csproj",
@@ -151,11 +360,38 @@
               "RelativeToolTip": "AuthPortal.Web\\AuthPortal.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:43:30.781Z"
+              "WhenOpened": "2025-11-22T14:43:30.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
+              "Title": "AuthPortal.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
+              "RelativeToolTip": "AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T14:40:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "AuthPortal.Domain\\Enums\\UserType.cs",
+              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Domain\\Enums\\UserType.cs",
+              "RelativeToolTip": "AuthPortal.Domain\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:03:01.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "AuthPortal.Domain.csproj",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Domain\\AuthPortal.Domain.csproj",
               "RelativeDocumentMoniker": "AuthPortal.Domain\\AuthPortal.Domain.csproj",
@@ -163,47 +399,38 @@
               "RelativeToolTip": "AuthPortal.Domain\\AuthPortal.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:40:53.939Z"
+              "WhenOpened": "2025-11-22T14:40:53.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthPortal.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
-              "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
-              "RelativeToolTip": "AuthPortal.Infrastructure\\AuthPortal.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:40:18.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "AuthPortal.Application.csproj",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal.Application\\AuthPortal.Application.csproj",
               "RelativeDocumentMoniker": "AuthPortal.Application\\AuthPortal.Application.csproj",
               "ToolTip": "D:\\G\\AuthPortal\\AuthPortal.Application\\AuthPortal.Application.csproj",
               "RelativeToolTip": "AuthPortal.Application\\AuthPortal.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:39:31.854Z"
+              "WhenOpened": "2025-11-22T14:39:31.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "AuthPortal.Api.csproj",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\AuthPortal.Api.csproj",
               "RelativeDocumentMoniker": "AuthPortal\\AuthPortal.Api.csproj",
               "ToolTip": "D:\\G\\AuthPortal\\AuthPortal\\AuthPortal.Api.csproj",
               "RelativeToolTip": "AuthPortal\\AuthPortal.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:39:25.69Z"
+              "WhenOpened": "2025-11-22T14:39:25.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\G\\AuthPortal\\AuthPortal\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthPortal\\Properties\\launchSettings.json",
@@ -211,7 +438,8 @@
               "RelativeToolTip": "AuthPortal\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T14:32:55.195Z"
+              "WhenOpened": "2025-11-22T14:32:55.195Z",
+              "EditorCaption": ""
             }
           ]
         }
