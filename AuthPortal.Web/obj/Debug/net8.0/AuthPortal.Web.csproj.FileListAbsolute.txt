@@ -37,3 +37,6 @@ D:\G\AuthPortal\AuthPortal.Web\bin\Debug\net8.0\AuthPortal.Domain.dll
 D:\G\AuthPortal\AuthPortal.Web\bin\Debug\net8.0\AuthPortal.Application.pdb
 D:\G\AuthPortal\AuthPortal.Web\bin\Debug\net8.0\AuthPortal.Domain.pdb
 D:\G\AuthPortal\AuthPortal.Web\obj\Debug\net8.0\AuthPort.978AD455.Up2Date
+D:\G\AuthPortal\AuthPortal.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\G\AuthPortal\AuthPortal.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\G\AuthPortal\AuthPortal.Web\obj\Debug\net8.0\AuthPortal.Web.sourcelink.json

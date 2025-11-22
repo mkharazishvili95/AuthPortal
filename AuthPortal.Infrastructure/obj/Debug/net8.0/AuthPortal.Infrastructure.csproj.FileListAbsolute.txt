@@ -9,3 +9,7 @@ D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastruc
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\refint\AuthPortal.Infrastructure.dll
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.pdb
 D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\ref\AuthPortal.Infrastructure.dll
+D:\G\AuthPortal\AuthPortal.Infrastructure\bin\Debug\net8.0\AuthPortal.Infrastructure.runtimeconfig.json
+D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.csproj.AssemblyReference.cache
+D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.sourcelink.json
+D:\G\AuthPortal\AuthPortal.Infrastructure\obj\Debug\net8.0\AuthPortal.Infrastructure.genruntimeconfig.cache

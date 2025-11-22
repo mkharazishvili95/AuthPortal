@@ -13,3 +13,4 @@ D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.d
 D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\refint\AuthPortal.Application.dll
 D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.pdb
 D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\ref\AuthPortal.Application.dll
+D:\G\AuthPortal\AuthPortal.Application\obj\Debug\net8.0\AuthPortal.Application.sourcelink.json

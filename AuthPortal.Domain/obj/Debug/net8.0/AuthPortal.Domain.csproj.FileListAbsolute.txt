@@ -9,3 +9,4 @@ D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.dll
 D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\refint\AuthPortal.Domain.dll
 D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.pdb
 D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\ref\AuthPortal.Domain.dll
+D:\G\AuthPortal\AuthPortal.Domain\obj\Debug\net8.0\AuthPortal.Domain.sourcelink.json
